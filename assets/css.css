@@ -1,0 +1,128 @@
+* {
+  scroll-behavior: smooth;
+  transition: 0.2s all ease-in-out;
+}
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: white;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: pink;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: purple;
+}
+
+main {
+  text-align: center;
+  display: flex;
+}
+
+aside {
+  width: 10%;
+  border: 1px solid white;
+  border-radius: 10px;
+  height: 98vh;
+  overflow-y: hidden;
+  position: fixed;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+div {
+  border-bottom: 1px solid white;
+  border-top: 1px solid white;
+  border-radius: 10px;
+  padding: 10px;
+  margin: 5px 0;
+}
+
+a:hover {
+  cursor: pointer;
+  background-color: pink;
+  color: #441d5b;
+  font-size: 20px;
+}
+
+section {
+  width: 100%;
+  padding-left: 10%;
+  margin-left: 10px;
+}
+
+body {
+  background-color: #441d5b;
+  color: white;
+}
+
+img {
+  width: 90%;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  height: 100%;
+}
+
+li {
+  width: 100%;
+  height: 60px;
+  border-bottom: 1px solid white;
+}
+
+code {
+  font-size: 1rem;
+  margin: 10px;
+}
+
+span {
+  color: orange;
+}
+
+center {
+  padding: 10px;
+  border: 1px solid white;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+
+@media only screen and (max-width: 950px) {
+  aside {
+    width: 90px;
+  }
+  section {
+    margin-left: 100px;
+    padding: 0;
+  }
+}
+
+@media only screen and (max-width: 265px) {
+  aside {
+    display: none;
+  }
+  section {
+    margin-left: 0;
+    padding: 0;
+  }
+}

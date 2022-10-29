@@ -5,6 +5,8 @@
 
 # Exp Test: https://drive.google.com/drive/folders/19lZv_XMBXah3DfwpDIYVLpdyrec2MRZ4
 
+# Android Studio Install Guide: https://github.com/KienVu1504/Android_Tutorial
+
 # Đây là một Tutorial khá đơn giản, dễ học và rất sát với Slide của Aptech.
 Mọi người dành thời gian ra đọc và làm theo ví dụ trên Tutorial này để đẩy nhanh sự tiến bộ của bản thân và chắc kèo qua môn nha 😃
 	- Link: https://www.tutorialspoint.com/android/index.htm
