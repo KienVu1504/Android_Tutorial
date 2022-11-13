@@ -20,11 +20,18 @@ Happy coding!
 * ASSIGNMENT
 	# Assignment 02
 		- Link docx: https://drive.google.com/file/d/1bJrf6iDG0TxA4Y51KH6RNsIwncD59xAF/view
+
 	# Assignment 01
 		- Link docx: https://drive.google.com/file/d/1EugQsJyEQCnybFdAbtd9ot3Z7O0KxU8W/view
 		- Link source code (10/10): https://drive.google.com/file/d/1gYq14vrF2nEY8KdN4Xi8LiBBpsjfdlvO/view?usp=sharing
 
 * Fbs docs
+	# Bài 03: Tuỳ biến ActionBar cơ bản.
+		- Trong bài này anh có hướng dẫn một số kiến thức sau:
+			+ Thay đổi tiêu đề hiển thị ActionBar.
+			+ Bổ sung ActionButton và Option Menu vào ActionBar.
+		- Link: https://drive.google.com/file/d/1XtqJ6Hy-9iwrqyuXJQ9ycB_d-yyLhboH/view
+
 	# Bài 02: Xây dựng giao diện ứng dụng Android + Custom view.
 		- Trong bài này anh có hướng dẫn một số kiến thức sau:
 			+ Định nghĩa về các loại Layout trong Android.
@@ -34,7 +41,6 @@ Happy coding!
 			+ Customize background của view cho đẹp mắt và phù hợp với mong muốn design.
 			+ Bind view từ XML vào code Java và thực hiện xử lý code logic.
 		- Link: https://drive.google.com/file/d/1iABDy7Kdh12Fkmo81A8WIDyoEsPITZPY/view
-		- Link scr code: https://drive.google.com/file/d/1D4bO31E5wjj6w5qsT-IuovCxtifaAX5A/view
 
 	# Bài 01: Khởi tạo project Android và chạy ứng dụng lên máy ảo.
 		- Trong bài này a có để một số kiến thức:
@@ -47,12 +53,16 @@ Happy coding!
 * Full cource example Android_C2009L_C2010L_FC_Linh
 	- 04/11/22_Android_TL4_C2009L_C2010L_FC_Linh
 		+ Link vid: https://drive.google.com/file/d/1g7JorwUCzhaGgj18WA8WNSVsaIxqRo2Y/view
+
 	- 02/11/22_Android_TL4_C2009L_C2010L_FC_Linh
 		+ Link vid: https://drive.google.com/file/d/1zV-Y97nrkDx9TMXQ2Z9-sZbN53FkaLSM/view
+
 	- 31/10/22_Android_TL3_C2009L_C2010L_FC_Linh
 		+ Link vid: https://drive.google.com/file/d/1ceUxMJSNmXBFqqFzX6AqXbN_k284cu4Y/view
+
 	- 28/10/22_Android_TL2_C2009L_C2010L_FC_Linh
 		+ Link vid: https://drive.google.com/file/d/1NzsD4eRlbvO8o7tLAQbzJPI-wrFtddqL/view
+
 	- 26/10/22_Android_TL1_C2009L_C2010L_FC_Linh
 		+ Link vid: https://drive.google.com/file/d/1wWO8MniY74ekxVazjCyGj0yuuhQQQk0b/view
 
