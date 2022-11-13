@@ -17,6 +17,13 @@ Vậy cả lớp clone và pull code thường xuyên về sau mỗi buổi họ
 	- Link: https://linhdqse03570@bitbucket.org/linhdqse03570/android_c2009_c2010.git
 Happy coding!
 
+* ASSIGNMENT
+	# Assignment 02
+		- Link docx: https://drive.google.com/file/d/1bJrf6iDG0TxA4Y51KH6RNsIwncD59xAF/view
+	# Assignment 01
+		- Link docx: https://drive.google.com/file/d/1EugQsJyEQCnybFdAbtd9ot3Z7O0KxU8W/view
+		- Link source code (10/10): https://drive.google.com/file/d/1gYq14vrF2nEY8KdN4Xi8LiBBpsjfdlvO/view?usp=sharing
+
 * Fbs docs
 	# Bài 02: Xây dựng giao diện ứng dụng Android + Custom view.
 		- Trong bài này anh có hướng dẫn một số kiến thức sau:
@@ -38,6 +45,8 @@ Happy coding!
 		- Link: https://drive.google.com/file/d/1IgZ4KgG8KOO5iFEjuXb2VjXZbiREIw9p/view
 
 * Full cource example Android_C2009L_C2010L_FC_Linh
+	- 04/11/22_Android_TL4_C2009L_C2010L_FC_Linh
+		+ Link vid: https://drive.google.com/file/d/1g7JorwUCzhaGgj18WA8WNSVsaIxqRo2Y/view
 	- 02/11/22_Android_TL4_C2009L_C2010L_FC_Linh
 		+ Link vid: https://drive.google.com/file/d/1zV-Y97nrkDx9TMXQ2Z9-sZbN53FkaLSM/view
 	- 31/10/22_Android_TL3_C2009L_C2010L_FC_Linh
