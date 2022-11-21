@@ -20,12 +20,16 @@ Happy coding!
 * ASSIGNMENT
 	# Assignment 02
 		- Link docx: https://drive.google.com/file/d/1bJrf6iDG0TxA4Y51KH6RNsIwncD59xAF/view
+		- Link source code (9/10): https://drive.google.com/file/d/1FxpdIKy-Fkm5YBjvtwx8KvBqUBCobsmW/view?usp=sharing
 
 	# Assignment 01
 		- Link docx: https://drive.google.com/file/d/1EugQsJyEQCnybFdAbtd9ot3Z7O0KxU8W/view
 		- Link source code (10/10): https://drive.google.com/file/d/1gYq14vrF2nEY8KdN4Xi8LiBBpsjfdlvO/view?usp=sharing
 
 * Fbs docs
+	# Bài 04: Tạo AlertDialog và tuỳ biến giao diện AlertDialog.
+		- Link: https://drive.google.com/file/d/1e4v1xK_BFeznrCQpdRyyAEc7BRvNZDcB/view
+
 	# Bài 03: Tuỳ biến ActionBar cơ bản.
 		- Trong bài này anh có hướng dẫn một số kiến thức sau:
 			+ Thay đổi tiêu đề hiển thị ActionBar.
@@ -51,6 +55,21 @@ Happy coding!
 		- Link: https://drive.google.com/file/d/1IgZ4KgG8KOO5iFEjuXb2VjXZbiREIw9p/view
 
 * Full cource example Android_C2009L_C2010L_FC_Linh
+	- 16/11/22_Android_TL4_C2009L_C2010L_FC_Linh
+		+ Link vid: https://drive.google.com/file/d/1e4sUZKiQ5ZYgBzNQpiZx6gXFKhJPESRR/view
+
+	- 14/11/22_Android_TL4_C2009L_C2010L_FC_Linh
+		+ Link vid: https://drive.google.com/file/d/1FUAP6yx9RaSvF0Hu_gPpt-mRZ-fG3Y3v/view
+
+	- 11/11/22_Android_TL4_C2009L_C2010L_FC_Linh
+		+ Link vid: https://drive.google.com/file/d/1CU47v34wwUKPBLnexwe4th-JM_a_wcre/view
+
+	- 09/11/22_Android_TL4_C2009L_C2010L_FC_Linh
+		+ Link vid: https://drive.google.com/file/d/18RzV_yklpuU8SNoY64mX0a7gVQE9LOeR/view
+
+	- 07/11/22_Android_TL4_C2009L_C2010L_FC_Linh
+		+ Link vid: https://drive.google.com/file/d/1-FhnliZurIp7ml1T49ypRlGpdOybzxyz/view
+
 	- 04/11/22_Android_TL4_C2009L_C2010L_FC_Linh
 		+ Link vid: https://drive.google.com/file/d/1g7JorwUCzhaGgj18WA8WNSVsaIxqRo2Y/view
 
