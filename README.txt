@@ -18,6 +18,10 @@ Vậy cả lớp clone và pull code thường xuyên về sau mỗi buổi họ
 Happy coding!
 
 * ASSIGNMENT
+	# Assignment 03
+		- Link docx: https://drive.google.com/file/d/1uGb8G0GgQB4iQozz-KcskihXgMScqKmh/view
+		- Link source code: 
+
 	# Assignment 02
 		- Link docx: https://drive.google.com/file/d/1bJrf6iDG0TxA4Y51KH6RNsIwncD59xAF/view
 		- Link source code (9/10): https://drive.google.com/file/d/1FxpdIKy-Fkm5YBjvtwx8KvBqUBCobsmW/view?usp=sharing
@@ -55,6 +59,12 @@ Happy coding!
 		- Link: https://drive.google.com/file/d/1IgZ4KgG8KOO5iFEjuXb2VjXZbiREIw9p/view
 
 * Full cource example Android_C2009L_C2010L_FC_Linh
+	- 23/11/22_Android_TL4_C2009L_C2010L_FC_Linh
+		+ Link vid: https://drive.google.com/file/d/1IKjDYmpIJjy77JCPSpGdGytsRxoqVpBi/view
+
+	- 21/11/22_Android_TL4_C2009L_C2010L_FC_Linhs
+		+ Link vid: https://drive.google.com/file/d/1CvUvaQVcL-IVtItP8NVtcEcCgEBhaKXy/view
+
 	- 16/11/22_Android_TL4_C2009L_C2010L_FC_Linh
 		+ Link vid: https://drive.google.com/file/d/1e4sUZKiQ5ZYgBzNQpiZx6gXFKhJPESRR/view
 
