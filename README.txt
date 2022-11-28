@@ -18,6 +18,14 @@ Vậy cả lớp clone và pull code thường xuyên về sau mỗi buổi họ
 Happy coding!
 
 * ASSIGNMENT
+	# 2020 test: 
+		- Link docx: https://drive.google.com/file/d/1CPLrJVO6cXoX-5F491N9qz1AqROAmQQN/view?usp=share_link
+		- Link source code: 
+
+	# 2019 test:
+		- Link docx: https://docs.google.com/document/d/12M6Eegg8uosfEVQOqKuP71MythOpCTm3/edit?usp=share_link&ouid=113199520004836689322&rtpof=true&sd=true
+		- Link source code: https://drive.google.com/file/d/1Phsj2ylW0R3cjNRQAfqcMkD3zGAoQ-_e/view?usp=share_link
+
 	# Assignment 03
 		- Link docx: https://drive.google.com/file/d/1uGb8G0GgQB4iQozz-KcskihXgMScqKmh/view
 		- Link source code: https://drive.google.com/drive/folders/17sLqIQlF1jl-qutb1Nmj_kSdZs6EH3fK?usp=sharing
